@@ -12,8 +12,8 @@
         "sha512": "20defa796ea605fbad3285a7216c3bf8ac88bffbd0eee997c77e49dd6fbcf86631ef4ab75ab571d3d402181d1aa5c2bd945985a5119b411ef014b31c4ee1a5fb"
       },
       "env": {
-        "server": "optional",
-        "client": "optional"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.42.0+1.16/fabric-api-0.42.0+1.16.jar"
@@ -42,8 +42,8 @@
         "sha512": "bb2dd085a6c5fcf86ba9a63d680fb5144a5788efe9c00a9417d978722dbb84163e47bb545c310869647924dad89bcfe2bbe04cd64476b304eada914083e5c094"
       },
       "env": {
-        "server": "optional",
-        "client": "optional"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.6/lithium-fabric-mc1.16.5-0.6.6.jar"
@@ -72,8 +72,8 @@
         "sha512": "8924a070abc3183c602da482250dd1d4137db06c7ae2bce8154cb4d82657ced44b1df5f4da402a279383f7731c1c9687a8c616716d8e15cf89f77541c69a36ef"
       },
       "env": {
-        "server": "optional",
-        "client": "optional"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.2-0.8.0/phosphor-fabric-mc1.16.2-0.8.0.jar"
@@ -102,8 +102,8 @@
         "sha512": "36fd6bd5a963bdb8f1472b2d1f7ac34a2044f644c7911570ce374665e1de24ef31793b5cd5421222f9e6b4eaa851e1e6358658b306d20df71b8c79a93984710c"
       },
       "env": {
-        "server": "optional",
-        "client": "optional"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.2/krypton-0.1.2.jar"
@@ -162,8 +162,8 @@
         "sha512": "32da6f8089af2d4b060b006be2713725804cce574b25fe759641aa67005d1acdaeb857fae0d3623887e70ac00203750264319ce50222aa97c82a1364d06886f9"
       },
       "env": {
-        "server": "optional",
-        "client": "optional"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/uXXizFIs/versions/2.1.0/ferritecore-2.1.0-fabric.jar"
@@ -192,8 +192,8 @@
         "sha512": "18460d40c5828aebc28b534ba4c6191f43a718e8091bc21ae116d59da851ec9c0b764f0097fdec3994f840b61786fcb5b32d05742b066f83115434e1283ad249"
       },
       "env": {
-        "server": "optional",
-        "client": "optional"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/1bZhdhsH/versions/fabric-1.16-1.2.13/plasmovoice-fabric-1.16-1.2.13.jar"
@@ -207,8 +207,8 @@
         "sha512": "6ce1272a1e82e62299419a09c24263c303f4e233c7331eb83df66a65bfb9f1f6bd33a4b65aaa42f83166f431033c962901a07762a84fc99d07cf07c6cfe9254c"
       },
       "env": {
-        "server": "optional",
-        "client": "optional"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/FWumhS4T/versions/1.16.5-1.6.0/smoothboot-fabric-1.16.5-1.6.0.jar"
@@ -229,21 +229,6 @@
         "https://cdn.modrinth.com/data/uDMPYwAN/versions/1.16.2/KronHUD-1.1.0.jar"
       ],
       "fileSize": 252915
-    },
-    {
-      "path": "mods/lambdabettergrass-fabric-1.0.3+1.16.jar",
-      "hashes": {
-        "sha1": "ee9ab559011ea345c66540f85bc18008b9f1d3e8",
-        "sha512": "c7614c1fc446ddbe6b251ccd8a426a3f384516a2edfd2594d6ae5ba7624f7c44ee87d91b0eea52cb392c21331e10ae28a625da8a9ec3bc7309504824f604b071"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.0.3+1.16/lambdabettergrass-fabric-1.0.3+1.16.jar"
-      ],
-      "fileSize": 1091254
     },
     {
       "path": "mods/indium-1.0.0+mc1.16.5.jar",

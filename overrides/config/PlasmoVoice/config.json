@@ -1,7 +1,11 @@
 {
   "servers": {
     "127.0.0.1": {
-      "distance": 16,
+      "distance": 24,
+      "priorityDistance": 48
+    },
+    "140.83.50.116": {
+      "distance": 4,
       "priorityDistance": 48
     }
   },
@@ -13,7 +17,7 @@
   "speakerMuted": false,
   "showIcons": 0,
   "micIconPosition": "BOTTOM_CENTER",
-  "voiceActivation": false,
+  "voiceActivation": true,
   "voiceActivationThreshold": -30.0,
   "microphoneAmplification": 1.0,
   "rnNoise": false,
