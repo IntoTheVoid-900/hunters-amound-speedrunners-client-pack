@@ -1,0 +1,16 @@
+name = "HAS Client Pack"
+author = "Darkblade360350"
+version = "3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f778878d0a202c54fa716322132706b766034cc53b68a5e8882456cd057699b0"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"
+
+[options]
+acceptable-game-versions = ["1.19"]

@@ -1,0 +1,17 @@
+name = "Xaero's Minimap (Fair-play Edition)"
+filename = "Xaeros_Minimap_FP22.12.0_Fabric_1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09428fab5bdd439900fbb37b58eebff2536d2892"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3897998
+project-id = 263466
+
+[option]
+optional = true
+description = "Xaro's Minimap adds a simple minimap to your screen. Works best with Xaero's Worldmap."

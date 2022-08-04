@@ -1,0 +1,157 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/PlasmoVoice/config.json"
+hash = "601b7bc4c350d68fd0aa81ef22c81dbc04981a4ceaeed2f565ee5d069dbd07ba"
+
+[[files]]
+file = "config/PlasmoVoice/server.yml"
+hash = "e6ce65e98af572331c88791889512396135390f31db973a0ec2ed7b552247367"
+
+[[files]]
+file = "config/PlasmoVoice/server_data.json"
+hash = "ec1e4eb5cb0f9781edaefa27df5c620a72c4e5f5b56169d31196640e6683e966"
+
+[[files]]
+file = "config/kronhud.json"
+hash = "d318f845c9aef9fce9ef9480260313a4c586ed4f5471384cf65a7d6b2359063e"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "2fbbd481d887d8fdede772904ad185caf0c137f7ffa04bad65b05bdd5da075d4"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "96541875015dc968a9190d06a03208d7e43c9a5ef37b3a942c8eeffe60bca04a"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "7c3bcf1d6f1ec740915ff8a51763509dd6cce39ad1173fc7d2cd9417b91ff2d8"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "09fb5d0486eee812c80e600bc64b556387d87f76629cedc9a7cff0e3fbacb737"
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "5e206d6a7aa7744a3322189386a7e3c4315df2dd8a1d3a648bcde498a7a3c934"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "0164a54948e8c8b4220f1b3f8a41a1c450050fe19e04256ed96e36f58db019d3"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
+metafile = true
+
+[[files]]
+file = "mods/kronhud.pw.toml"
+hash = "39c44f409a5efd41175d06d46c6eeb7359123eb60043e2a8c58b9f49caa4fa87"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "7bdc07bbbab297f260213d23134915977679c8df8df0d2695222fe20949a58a5"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "9d9b3772d9e12b474675846005279f4b3957711744a550ab14284ed4187fc270"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "d09cd1d0aedef9f4c6acceda635ba7c9d33e688d2cda51f299d9acca1156ea1a"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
+metafile = true
+
+[[files]]
+file = "mods/multiconnect.pw.toml"
+hash = "a7debd048ecfecbeaa39e236a7288327039ee3ff7e64666e62841fd8a7534300"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "1b9992340de072c10a03628a1257be160c66808dfff0a557c63b3cd3e9a40a82"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "3f2148f425622b9226aac1a5ea41f6613f9fdc0f484eadd72d30714ab0a73895"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+hash = "429d520f48d275d08e27798acbdd81985fa8c249ebc5416e36761100a7a32ac8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d16b4b5ad11c01690bccfcef8b4965123d064da7914451654f3cbea7b9005b2f"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "99ed34fa5461916e30b3e82f58c5b35731dec9cab94a11dc8d0abad9e1972bce"
