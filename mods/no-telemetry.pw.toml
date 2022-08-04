@@ -11,7 +11,3 @@ hash = "10e117acc8f9e08ae1fadf4341e4d9d413ef092c"
 [update.modrinth]
 mod-id = "hg77g4Pw"
 version = "61UhmWos"
-
-[option]
-optional = true
-description = "Removes Telementary."

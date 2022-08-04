@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "436a6d536138f203ac333858cff92a568be62797752b3adb94bcaa0f6ffe7ef6"
+
+[[files]]
 file = "config/PlasmoVoice/config.json"
 hash = "601b7bc4c350d68fd0aa81ef22c81dbc04981a4ceaeed2f565ee5d069dbd07ba"
 
@@ -64,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/kronhud.pw.toml"
-hash = "39c44f409a5efd41175d06d46c6eeb7359123eb60043e2a8c58b9f49caa4fa87"
+hash = "95038b692c4e412a0fef8793c88c81787f3b1b91e9af6ba457fc585388892182"
 metafile = true
 
 [[files]]
@@ -99,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "d09cd1d0aedef9f4c6acceda635ba7c9d33e688d2cda51f299d9acca1156ea1a"
+hash = "b068d02be798157b06c2e76887190d632559bbf8032f5c3774c434cf3da26f2b"
 metafile = true
 
 [[files]]
@@ -144,12 +148,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "429d520f48d275d08e27798acbdd81985fa8c249ebc5416e36761100a7a32ac8"
+hash = "3ee44a0acb4df8847714a1055a657e370abd0e8f0df8ea60cae68ea2a88dbad6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d16b4b5ad11c01690bccfcef8b4965123d064da7914451654f3cbea7b9005b2f"
+hash = "0f8c931dec08ba02fbb77bb2236cf51c340ab180be2a01a9ec351a44a897680b"
 metafile = true
 
 [[files]]
