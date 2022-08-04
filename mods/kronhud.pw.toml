@@ -12,6 +12,6 @@ mode = "metadata:curseforge"
 file-id = 3877008
 project-id = 403941
 
-[option]
-optional = true
-description = "KronHUD gives you a PVP HUD similar to that of Lunar Client."
+# [option]
+# optional = true
+# description = "KronHUD gives you a PVP HUD similar to that of Lunar Client."
