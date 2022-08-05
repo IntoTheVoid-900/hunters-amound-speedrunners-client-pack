@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "436a6d536138f203ac333858cff92a568be62797752b3adb94bcaa0f6ffe7ef6"
-
-[[files]]
 file = "config/PlasmoVoice/config.json"
 hash = "601b7bc4c350d68fd0aa81ef22c81dbc04981a4ceaeed2f565ee5d069dbd07ba"
 
@@ -124,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "1b9992340de072c10a03628a1257be160c66808dfff0a557c63b3cd3e9a40a82"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
 metafile = true
 
 [[files]]
