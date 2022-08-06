@@ -14,7 +14,7 @@ hash = "ec1e4eb5cb0f9781edaefa27df5c620a72c4e5f5b56169d31196640e6683e966"
 
 [[files]]
 file = "config/kronhud.json"
-hash = "d318f845c9aef9fce9ef9480260313a4c586ed4f5471384cf65a7d6b2359063e"
+hash = "af3c55f4a1627336f2fc0450e4648508167d8e20b6da559c6d6778c2e8ed65cc"
 
 [[files]]
 file = "config/lambdynlights.toml"
