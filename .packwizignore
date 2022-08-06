@@ -9,3 +9,7 @@
 
 # Exclude zip
 /Hunters_Among_Speedrunners_Multiversion.zip
+
+# Exclude VS Codium crap
+
+/.vscode/
