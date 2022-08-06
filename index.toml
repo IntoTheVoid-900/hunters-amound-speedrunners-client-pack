@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/kronhud.pw.toml"
-hash = "8d28ce59472b0297b371e6fbf747be39afa1377363af41ebe02cc91047a66ddd"
+hash = "47af6f1fc37db93b80339607e290c3f52407f90a013f9693802fcd6aeddcd6f8"
 metafile = true
 
 [[files]]
@@ -114,12 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "dcad1b37cf2e8ae2dd06fd545a7ff60c58cb95fea4f48e1b07a4eb9d28efab88"
+hash = "8dbb578d4ce674dba168d760d1d97a812171f025fd65a6894f1c2b0fd5bf7cf5"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "07aac5b0e1579af6f3cb233fd7725c25ddbbc6f14941b5bf2d0a38214e5fb556"
+hash = "4bc959635cdbf514cf2061c44bc16008417e9f52da075f53ee252fb071abd7e7"
 metafile = true
 
 [[files]]
