@@ -108,11 +108,6 @@ hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
-file = "mods/multiconnect.pw.toml"
-hash = "a7debd048ecfecbeaa39e236a7288327039ee3ff7e64666e62841fd8a7534300"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
 metafile = true
