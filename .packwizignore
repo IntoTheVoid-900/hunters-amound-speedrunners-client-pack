@@ -8,8 +8,7 @@
 /LICENSE
 
 # Exclude zip
-/Hunters_Among_Speedrunners_Multiversion.zip
+/Hunters Among Speedrunners 1.18.2.zip
 
 # Exclude VS Codium crap
-
 /.vscode/

@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3897995
 project-id = 263466
+
+[option]
+optional = true
+description = "Xaero's Minimap adds a simple vanilla minimap to the game. This mod works best with Xaero's Worldmap.'"
