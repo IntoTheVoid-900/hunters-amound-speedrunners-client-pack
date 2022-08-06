@@ -1,17 +1,13 @@
 name = "KronHUD"
-filename = "KronHUD-2.1.0.jar"
+filename = "KronHUD-2.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f8231d492420cb4fb1fedc724388fd5e27626d96"
+hash = "549d373383521d3965a80895151c7dbb778da8d0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3877008
+file-id = 3829290
 project-id = 403941
-
-[option]
-optional = true
-description = "KronHUD adds a Lunar Client style HUD."

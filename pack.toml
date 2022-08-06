@@ -1,16 +1,13 @@
-name = "HAS Client Pack"
+name = "Hunters Among Speedrunners Client Pack"
 author = "Darkblade360350"
-version = "3.0"
+version = "3.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3992c5ab5c73c33a9f6d39cdf324f69e57ca2dc1ca4d87e2d77720befb6a5e38"
+hash = "3ae27d7459e00a5f319d8a76479e5d9d5c5c0a635bdf6f7eb6b150f3b06aaf98"
 
 [versions]
 fabric = "0.14.8"
-minecraft = "1.19"
-
-[options]
-acceptable-game-versions = ["1.19"]
+minecraft = "1.18.2"
