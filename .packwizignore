@@ -6,3 +6,6 @@
 
 # Exclude License
 /LICENSE
+
+# Exclude zip
+/Hunters_Among_Speedrunners_Multiversion.zip
