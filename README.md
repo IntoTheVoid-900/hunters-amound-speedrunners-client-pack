@@ -12,7 +12,7 @@ Along with Curseforge and Modrinth formatted releases, we now have a Packwiz ver
 2. Import from ZIP
 3. Put in one of these links depending on the game version you want:
     
-    a. `https://github.com/IntoTheVoid-900/hunters-among-speedrunners-client-pack/raw/packwiz/Hunters_Among_Speedrunners_1.19.zip` for 1.19
+    a. `https://github.com/IntoTheVoid-900/hunters-among-speedrunners-client-pack/raw/1.19/Hunters_Among_Speedrunners_1.19.zip` for 1.19
     
     b. `https://github.com/IntoTheVoid-900/hunters-among-speedrunners-client-pack/raw/1.18.2/Hunters%20Among%20Speedrunners%201.18.2.zip` for 1.18.2
 4. Start the game.
