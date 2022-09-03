@@ -34,7 +34,7 @@ hash = "09fb5d0486eee812c80e600bc64b556387d87f76629cedc9a7cff0e3fbacb737"
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "ba99850c71a06482ef88cc18d8273c511e523c20fc96b1ce8cefd9adc98705fd"
+hash = "6048f5e5accc2f25144ab90d942a276a850994dce425267cc6a8a97ae524f9bf"
 metafile = true
 
 [[files]]
@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b8184b7be17374e4bfbb369235075e760936e179f3a235c1b4e446e20a78b485"
+hash = "e0500714b610105120603eb70244c039ba5a02af44d832384af87f88aedefef5"
 metafile = true
 
 [[files]]
