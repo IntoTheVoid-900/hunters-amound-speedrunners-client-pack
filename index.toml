@@ -34,7 +34,7 @@ hash = "09fb5d0486eee812c80e600bc64b556387d87f76629cedc9a7cff0e3fbacb737"
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "ba99850c71a06482ef88cc18d8273c511e523c20fc96b1ce8cefd9adc98705fd"
+hash = "85e34af2fc1869a3d6e9b7f1f91b59dfdd124709b27482cd5864acb0d120213b"
 metafile = true
 
 [[files]]
@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b8184b7be17374e4bfbb369235075e760936e179f3a235c1b4e446e20a78b485"
+hash = "7d81a8a32091c7741549b7a4f7658b9a60a51bfbab4ec9841f5044182ff9f7be"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f70e43d0a9efcfa0da978645e5f6d379e91f33b54c5924cb8187c10ff30273df"
+hash = "90f8419ee166123d03d7d2cb765bbee9ef36667264c3c3aa94b2006b801c4a5a"
 metafile = true
 
 [[files]]
